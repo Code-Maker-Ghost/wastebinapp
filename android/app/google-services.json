@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099399748764",
+    "project_id": "wastebinapp-70034",
+    "storage_bucket": "wastebinapp-70034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099399748764:android:afc0c2e03a401491906159",
+        "android_client_info": {
+          "package_name": "com.example.wastebinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA417sHND6q68XBRoAPdmm4qRD4bd6Pm-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
